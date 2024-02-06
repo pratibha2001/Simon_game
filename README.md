@@ -1,4 +1,4 @@
-# Simon_game
+# Simon_game Play here: https://pratibha2001.github.io/Simon_game/ 
 *Press any key to start the game*
 <br><br>
 ![image](https://user-images.githubusercontent.com/85070588/189358480-5bacaeb3-e60b-4d85-8201-48de683137f8.png)
